@@ -31,6 +31,8 @@
   ---
 
   <p>
-    <a href="https://linkedin.com/in/bardia-tech"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/bardia-khorshidi-781513433" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    </a>
   </p>
 </div>
