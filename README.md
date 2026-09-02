@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="BardiaTech_logo_transparent.png" width="200">
+  <img src="41e43fc5-65d6-4dd9-9ac9-f43085b93fad.png" width="200">
   
-  # Bardia Mohammadi | Bardia Tech
+  # BarDia KhorShidi | Bardia Tech
   ### *Believe. Become. Build.*
 
   **Full-Stack Developer & Data Architect**  
@@ -24,9 +24,9 @@
 ۳. تمام متن‌های قبلی رو پاک کن و این کد زیر رو دقیقاً کپی کن و جایگزینش کن:
 ```markdown
 <div align="center">
-  <img src="BardiaTech_logo_transparent.png" width="200">
+  <img src="41e43fc5-65d6-4dd9-9ac9-f43085b93fad.png" width="200">
   
-  # Bardia Mohammadi | Bardia Tech
+  # BarDia KhorShidi | Bardia Tech
   ### *Believe. Become. Build.*
 
   **Full-Stack Developer & Data Architect**  
