@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="41e43fc5-65d6-4dd9-9ac9-f43085b93fad.png" width="200">
+  <img src="41e43fc5-65d6-4dd9-9ac9-f43085b93fad.png" width="180">
   
   # BarDia KhorShidi | Bardia Tech
   ### *Believe. Become. Build.*
@@ -9,33 +9,28 @@
 
   ---
 
-  ### ⚡ Core Stack
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoعالی! اکانت **`BarDiaTecH90`** ساخته شد. حالا این ریپازیتوری (که هم‌نام یوزرنیمت هست) ویترین اصلی توئه.
-
-### گام ۱: آماده‌سازی لوگو
-۱. توی صفحه اصلی ریپازیتوری `BarDiaTecH90`، دکمه **Add file** -> **Upload files** رو بزن.
-۲. فایل لوگوی `BardiaTech_logo_transparent.png` (که در سیستم خودت داری) رو درگ کن و آپلود کن و **Commit changes** رو بزن.
-   * *حالا این لوگو در ریشه (Root) ریپازیتوری‌ات هست.*
-
-### گام ۲: ویرایش README
-۱. توی همون صفحه ریپازیتوری، روی فایل **README.md** کلیک کن.
-۲. روی آیکون مداد (Edit) کلیک کن.
-۳. تمام متن‌های قبلی رو پاک کن و این کد زیر رو دقیقاً کپی کن و جایگزینش کن:
-```markdown
-<div align="center">
-  <img src="41e43fc5-65d6-4dd9-9ac9-f43085b93fad.png" width="200">
-  
-  # BarDia KhorShidi | Bardia Tech
-  ### *Believe. Become. Build.*
-
-  **Full-Stack Developer & Data Architect**  
-  *Simplicity is the ultimate sophistication.*
+  ### ⚡ Core 4 Stack
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Full_Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </p>
 
   ---
 
-  ### ⚡ Core Stack
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![FullStack](https://img.shields.io/badge/React-0000
+  ### 🛠 Philosophy & Vision
+  > Designing high-impact systems, zero-touch automated data pipelines, and scalable enterprise architectures.
+
+  ---
+
+  ### 🚀 Featured Ecosystems
+  * 🔹 **Kaya Pipeline:** Automated Freelance Scraping, Taxonomies & Scoring Engine.
+  * 🔹 **Bardia Tech BI:** Real-Time Market Intelligence & Executive Dashboards.
+
+  ---
+
+  <p>
+    <a href="https://linkedin.com/in/bardia-tech"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  </p>
+</div>
